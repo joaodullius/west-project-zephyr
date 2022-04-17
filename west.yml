@@ -15,4 +15,4 @@ manifest:
       url: https://github.com/joaodullius/zephyr-course.git
   self:
     # Where this repository should be cloned to
-    path: my_app
+  #  path: my_app
