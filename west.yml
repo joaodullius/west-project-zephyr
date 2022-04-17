@@ -13,6 +13,6 @@ manifest:
       path: samples
       revision: main
       url: https://github.com/joaodullius/zephyr-course.git
-  #self:
+  self:
     # Where this repository should be cloned to
-    #path: my_app
+    path: my_repo
