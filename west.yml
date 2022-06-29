@@ -7,7 +7,7 @@ manifest:
     - name: zephyr
       repo-path: zephyr
       remote: zephyrproject-rtos
-      revision: v3.0.0
+      revision: v3.1.0
       import: true
     - name: zephyr-course
       path: samples
